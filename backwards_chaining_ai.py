@@ -1,3 +1,6 @@
+#Generated with ChatGPT
+#OpenAI. (2024). ChatGPT (November 2024 version) [AI model]. Retrieved from https://chat.openai.com/
+
 import pandas as pd
 import time
 start_time = time.time()
